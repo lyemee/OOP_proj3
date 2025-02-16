@@ -1,7 +1,7 @@
 # OOP_proj3
 Object-Oriented Programming
 - 3D crash 4 balls billard simulation using DirectX 9
-- check out billard.mp4 and reports for more details about the program.
+- check out billard.mp4 and reports for more details.
 
 
 Settings for DirectX
