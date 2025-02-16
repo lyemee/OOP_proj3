@@ -2,7 +2,8 @@
 Object-Oriented Programming
 - 3D crash 4 balls billard simulation using DirectX 9
 
-<Settings for DirectX>
+
+Settings for DirectX
 1. Install DirectX using given URL
    - https://www.microsoft.com/en-us/download/details.aspx?id=6812
 2. Open visual studio and click 'property'
